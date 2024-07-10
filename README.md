@@ -5,7 +5,7 @@ Este proyecto aproxima el valor de π usando diversas series convergentes [\[2\]
  - Serie de Newton
  - Serie de Leibniz
 
- Se usa [resources/pi_10_millones.txt](resourses/pi_10_millones.txt) [\[1\]](#socrates2010) para medir la exactitud del programa.
+ Se usa [resources/pi_10_millones.txt](resources/pi_10_millones.txt) [\[1\]](#socrates2010) para medir la exactitud del programa.
 
 ## Requerimientos
 
